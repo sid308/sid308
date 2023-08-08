@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid308&label=Profile%20views&color=0e75b6&style=flat" alt="sid308" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid308" alt="sid308" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/sid308?tab=repositories](https://github.com/sid308?tab=repositories)
 
 - 📝 I regularly write articles on [https://cyncept.vercel.app/blog](https://cyncept.vercel.app/blog)
 
-- 📫 How to reach me **sidhuzaifa3088@gmail.com**
+- Reach me at **sidhuzaifa3088@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing](https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing)
 
