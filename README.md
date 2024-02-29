@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://cyncept.vercel.app/blog](https://cyncept.vercel.app/blog)
 
-- Reach me at **sidhuzaifa3088@gmail.com**
+- Reach me at **sid-hozaifa@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing](https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing)
 
