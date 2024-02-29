@@ -9,7 +9,7 @@
 
 - Reach me at **sid-hozaifa@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing](https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18XGcdNZ7uk3S-dTLWyU8I0QLVm_KFkzX/view?usp=sharing](https://drive.google.com/file/d/16qBCV9tPhdC1f1eONZJr7bYEHMpms51c/view?usp=sharing)
 
 - ⚡ Fun fact **The more you know CSS, the less you know CSS**
 
